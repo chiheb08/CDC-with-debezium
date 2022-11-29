@@ -4,7 +4,8 @@ We are going to use the debezium kafka connector for a MySql database
 
 
 ## Architecture of the project : 
-
+![plot](cdc_debezium.png) 
+‚
 
 
 
