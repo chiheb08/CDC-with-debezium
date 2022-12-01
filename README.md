@@ -22,7 +22,7 @@ docker run -it --rm --name zookeeper -p 2181:2181 -p 2888:2888 -p 3888:3888 quay
 - -p 2181:2181 -p 2888:2888 -p 3888:3888 : Maps the container ports to the ports of docker host , we exposed three ports to make the other applications talk to zookeeper . 
 
 Communication inside the world of containerization  : 
-![plot](cdc_debezium.jpg)  
+![plot](docker.jpg)  
 
 
 
